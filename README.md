@@ -50,8 +50,8 @@ No configuration needed, works out-of-box.
 ## Usage
 
 ```js
-import { Plugins } from "@capacitor/core";
+import { RateApp } from "capacitor-rate-app";
 
-Plugins.CapacitorRateApp.requestReview();
+RateApp.requestReview();
 ```
 
